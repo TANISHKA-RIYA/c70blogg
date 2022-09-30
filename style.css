@@ -1,0 +1,29 @@
+#contact iframe {
+    width: 100%;
+}
+
+.travelling {
+    border: 1px solid gray;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.travelling img {
+    width: 100%;
+}
+
+.movie_text span {
+    color: yellow;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 10PX;
+    margin-bottom: 10px;
+    border-radius: 20pX;
+}
